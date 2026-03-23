@@ -37,7 +37,4 @@ A lightweight and extensible Linux system call tracer built using the `ptrace` A
 
 ```bash
 make
-▶️ Run
-./tracer /bin/ls
-🎯 Run with Syscall Filter
-./tracer /bin/ls --filter=read,write
+
