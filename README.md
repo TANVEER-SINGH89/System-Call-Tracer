@@ -37,4 +37,3 @@ A lightweight and extensible Linux system call tracer built using the `ptrace` A
 
 ```bash
 make
-
